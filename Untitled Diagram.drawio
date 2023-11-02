@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T00:55:01.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.8" etag="jwUhSE4ZB165-39pxZL-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T01:13:47.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="r3JTb0gecKaMUOkHu1lF" version="22.0.8" type="github">
   <diagram name="Page-1" id="ywJdQ0lh4zWK8mqaIMfu">
-    <mxGraphModel>
+    <mxGraphModel dx="862" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gL6W2WuyTVLfepE377gd-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gL6W2WuyTVLfepE377gd-1" target="gL6W2WuyTVLfepE377gd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gL6W2WuyTVLfepE377gd-1" value="mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="80" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gL6W2WuyTVLfepE377gd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gL6W2WuyTVLfepE377gd-2" target="gL6W2WuyTVLfepE377gd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gL6W2WuyTVLfepE377gd-2" value="Masukan jari-jari&lt;br&gt;(r)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="273.75" y="170" width="157.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gL6W2WuyTVLfepE377gd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gL6W2WuyTVLfepE377gd-3" target="gL6W2WuyTVLfepE377gd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gL6W2WuyTVLfepE377gd-3" value="L = 22/7 * r * r" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="250" width="137" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gL6W2WuyTVLfepE377gd-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gL6W2WuyTVLfepE377gd-4" target="gL6W2WuyTVLfepE377gd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gL6W2WuyTVLfepE377gd-4" value="Tampilkan Luas&lt;br&gt;(L)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="340" width="176" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gL6W2WuyTVLfepE377gd-5" value="selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298.75" y="440" width="107.5" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
